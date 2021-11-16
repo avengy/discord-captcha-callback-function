@@ -1,7 +1,7 @@
 # discord-captcha-callback-function
 Bypass Discord Captcha when automating browser with selenium
 
-Won't go into detail those who knows whats this will able to use it 
+Won't go into detail because those who knows whats this will not need an explaination on how to use this
 
 #dontskid
 
